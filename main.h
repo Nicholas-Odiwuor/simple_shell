@@ -1,7 +1,3 @@
-/**
- * Nicholas-Odiwuor
- */
-
 #ifndef SIMPLESHELL
 #define SIMPLESHELL
 
@@ -16,9 +12,10 @@
 #include <errno.h>
 #include <stdarg.h>
 
+
 extern char **environ;
 /**
-* Struct builtin - builtins
+* struct builtin - builtins
 * @b_name: name of the command
 * @b_func: pointer to a function
 */
@@ -69,6 +66,3 @@ void validagetline(char *buffer, int len, char **args, char **env_args);
 int notty(char **av __attribute__((unused)));
 #endif /*SIMPLESHELL*/
 
-/**
- * Nicholas-Odiwuor
- */
