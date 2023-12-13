@@ -1,7 +1,3 @@
-/**
- * Nicholas-Odiwuor
- */
-
 #include "main.h"
 /**
  * args_constructor - Executes command lines entered by pipe
@@ -23,7 +19,3 @@ char **args_constructor(char *buffer)
 
 	return (user_command);
 }
-
-/**
- * Nicholas-Odiwuor
- */
