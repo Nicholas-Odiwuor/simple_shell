@@ -1,8 +1,3 @@
-/**
- * Nicholas-Odiwuor
- */
-
-
 #include "main.h"
 /**
  * exit_func - Builtin function that exits from shell
@@ -12,4 +7,3 @@ int exit_func(void)
 {
 	exit(0);
 }
-
