@@ -1,7 +1,3 @@
-/**
- * Nicholas-Odiwuor
- */
-
 #include "main.h"
 
 /**
@@ -33,7 +29,7 @@ char *ret_path_line()
 
 /**
  * change_equal_sig - Change from a given strings = to : character
- * @str: Given string
+ * @str: given string
  * Return: Nohing
 */
 
@@ -54,8 +50,8 @@ void change_equal_sig(char *str)
 
 /**
  * _insert_path - Inserts the directory into given command
- * @args: Given command
- * @path: Tokenized path enviroment
+ * @args: given command
+ * @path: tokenized path enviroment
  * Return: Full path command if exists or just a given command
 */
 
@@ -105,7 +101,7 @@ char *_insert_path(char **args, char **path)
 
 /**
  * getenvpath - Creates an array of pointers to the PATH directories
- * Return: Points to the arrays of tokenized directories
+ * Return: Pointer to an array of tokenized directories
 */
 
 char **getenvpath()
@@ -125,8 +121,8 @@ char **getenvpath()
 
 /**
  * spaces_buster - Creates an array of pointers to the PATH directories
- * @buffer: Given string
- * Return: Points to the arrays of tokenized directories
+ * @buffer: given string
+ * Return: Pointer to an array of tokenized directories
 */
 
 int spaces_buster(char *buffer)
@@ -143,8 +139,3 @@ int spaces_buster(char *buffer)
 	}
 	return (1);
 }
-
-
-/**
- * Nicholas-Odiwuor
- */
