@@ -1,7 +1,3 @@
-/**
- * Nicholas-Odiwuor
- */
-
 #include "main.h"
 /**
  * execo - Executes a given command
@@ -42,6 +38,3 @@ int execo(char *command, char **args)
 	return (errcode);
 }
 
-/**
- * Nicholas-Odiwuor
- */
