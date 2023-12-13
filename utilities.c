@@ -1,7 +1,3 @@
-/**
- * Nicholas-Odiwuor
- */
-
 #include "main.h"
 
 /**
@@ -68,9 +64,9 @@ char *strduplicate(char *s)
 
 /**
  * strcomparer - Compares two given  strings
- * @s1: Given S1 string
- * @s2: Given S2 string
- * Return: 0 If both are equals or ascii diff
+ * @s1: Given S1 String
+ * @s2: Given S2 String
+ * Return: 0 if both are equals or ascii diff
 */
 int strcomparer(char *s1, char *s2)
 {
@@ -90,9 +86,9 @@ int strcomparer(char *s1, char *s2)
 }
 
 /**
- *strconk - Concatenates two strings.
- *@dest: Destiny string
- *@src: Source string
+ *strconk - concatenates two strings.
+ *@dest: destiny string
+ *@src: source string
  *Return: dest
  */
 char *strconk(char *dest, char *src)
@@ -110,8 +106,3 @@ char *strconk(char *dest, char *src)
 
 	return (dest);
 }
-
-
-/**
- * Nicholas-Odiwuor
- */
