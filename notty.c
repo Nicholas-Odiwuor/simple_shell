@@ -1,12 +1,13 @@
 /**
- * Nicholas-Odiwuor/
+ * Nicholas
+ * Hassan
  */
 
 
 #include "main.h"
 /**
- * notty - Executes command lines entered by pipe
- * @av: Program name
+ * notty - executes command lines entered by pipe
+ * @av: program name
  * Return: 0
 */
 int notty(char **av __attribute__((unused)))
@@ -52,7 +53,7 @@ int notty(char **av __attribute__((unused)))
 	return (0);
 }
 
-
 /**
- * Nicholas-Odiwuor
+ * Nicholas
+ * Hassan
  */
