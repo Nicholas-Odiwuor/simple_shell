@@ -1,12 +1,12 @@
 /**
- * Nicholas-Odiwuor
+ * Nicholas
+ * Hassan
  */
-
 
 #include "main.h"
 /**
  * env_func - Prints eviroment variables
- * Return: 0 On success
+ * Return: 0 on success
 */
 int env_func(void)
 {
@@ -22,8 +22,7 @@ int env_func(void)
 	return (0);
 }
 
-
-
 /**
- * Nicholas-Odiwuor
+ * Nicholas
+ * Hassan
  */
