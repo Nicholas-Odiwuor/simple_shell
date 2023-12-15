@@ -1,3 +1,8 @@
+/**
+ * Nicholas
+ * Hassan
+ */
+
 #include "main.h"
 /**
  * exit_func - Builtin function that exits from shell
