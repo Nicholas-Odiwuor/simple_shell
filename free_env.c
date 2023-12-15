@@ -1,14 +1,14 @@
 /**
- * Nicholas-Odiwuor
+ * Nicholas
+ * Hassan
  */
 
 #include "main.h"
-
 /**
-* free_env - To free tokenized path directories and user arguments
-* @env_args: Tokenized environment directories
-* @args: Tokenized user commands
-* Return: Nothing
+* free_env - frees tokenized PATH directories and user's arguments
+* @env_args: tokenized environment directories
+* @args: tokenized user's commands
+* Return: nothing
 */
 
 void free_env(char **env_args, char **args)
@@ -22,5 +22,6 @@ void free_env(char **env_args, char **args)
 
 
 /**
- * Nicholas-Odiwuor
+ * Nicholas
+ * Hassan
  */
