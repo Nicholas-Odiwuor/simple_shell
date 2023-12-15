@@ -1,8 +1,14 @@
+/**
+ * Nicholas
+ * Hassan
+ */
+
+
 #include "main.h"
 /**
- * validagetline - Executes command lines entered by pipe
+ * validagetline - executes command lines entered by pipe
  * @buffer: program name
- * @len: length of buffer
+ * @len: length buffer
  * @args: Argument 1
  * @env_args: Enviroment arguments
  * Return: 0
@@ -32,3 +38,8 @@ void validagetline(char *buffer, int len, char **args, char **env_args)
 	}
 }
 
+
+/**
+ * Nicholas
+ * Hassan
+ */
