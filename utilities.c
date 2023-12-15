@@ -1,3 +1,8 @@
+/**
+ * Nicholas
+ * Hassan
+ */
+
 #include "main.h"
 
 /**
@@ -106,3 +111,9 @@ char *strconk(char *dest, char *src)
 
 	return (dest);
 }
+
+
+/**
+ * Nicholas
+ * Hassan
+ */
