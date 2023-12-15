@@ -1,7 +1,12 @@
+/**
+ * Nicholas
+ * Hassan
+ */
+
 #include "main.h"
 /**
- * args_constructor - Executes command lines entered by pipe
- * @buffer: Command name
+ * args_constructor - executes command lines entered by pipe
+ * @buffer: command name
  * Return: 0
 */
 char **args_constructor(char *buffer)
@@ -19,3 +24,8 @@ char **args_constructor(char *buffer)
 
 	return (user_command);
 }
+
+/**
+ * Nicholas
+ * Hassan
+ */
