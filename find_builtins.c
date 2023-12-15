@@ -1,12 +1,8 @@
-/**
- * Nicholas-Odiwuor
- */
-
 #include "main.h"
 /**
-**find_builtins -  Finds wheter user's command is a builtin
-** @user_input: User command
-**Return: points to builtin function or NULL if doesn't exist
+**find_builtins -  finds wheter user's command is a builtin
+** @user_input: user's command
+**Return: pointer to function builtin or NULL if doesn't exists
 **/
 int (*find_builtins(char *user_input))()
 {
@@ -31,5 +27,6 @@ int (*find_builtins(char *user_input))()
 }
 
 /**
- * Nicholas-Odiwuor
+ * Nicholas
+ * Hassan
  */
