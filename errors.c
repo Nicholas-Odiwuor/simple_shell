@@ -1,11 +1,12 @@
 /**
- * Nicholas-Odiwuor
+ * Nicholas
+ * Hassan
  */
 
 #include "main.h"
 /**
- * error_msg - Writes error depending on error number
- * @args: Given command to execute
+ * error_msg - writes error depending on the error number
+ * @args: given command to execute
  * Return: Nothing
 */
 void error_msg(char **args)
@@ -26,9 +27,9 @@ void error_msg(char **args)
 }
 
 /**
- * error_badcommand - Writes error depending on the error number
- * @args: Command to execute
- * @buffer: Command to execute
+ * error_badcommand - writes error depending on the error number
+ * @args: given command to execute
+ * @buffer: given command to execute
  * Return: Nothing
 */
 void error_badcommand(char **args, char *buffer)
@@ -41,5 +42,6 @@ void error_badcommand(char **args, char *buffer)
 }
 
 /**
- * Nicholas-Odiwuor
+ * Nicholas
+ * Hassan
  */
