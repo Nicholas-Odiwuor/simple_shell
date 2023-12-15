@@ -1,5 +1,6 @@
 /**
- * Nicholas Odiwuor
+ * Nicholas
+ * Hassan
  */
 
 #include "main.h"
