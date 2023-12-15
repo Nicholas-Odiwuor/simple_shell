@@ -1,7 +1,6 @@
 /**
- * Nicholas-Odiwuor
+ * Nicholas
  */
-
 
 #include "main.h"
 /**
@@ -22,9 +21,9 @@ int lennum(int n)
 }
 
 /**
- * int_to_charac - Converts to string
- * @num: The integers to be printed
- * Return: String
+ * int_to_charac - converts to string
+ * @num: integers to be printed
+ * Return: string
  */
 
 char *int_to_charac(int num)
@@ -61,7 +60,6 @@ char *int_to_charac(int num)
 	return (str);
 }
 
-
 /**
- * Nicholas-Odiwuor
+ * Nicholas
  */
