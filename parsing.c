@@ -1,12 +1,13 @@
 /**
- * Nicholas-Odiwuor
+ * Nicholas
+ * Hassan
  */
 
 #include "main.h"
 /**
- * necklace_pearls - Counts commands and options entered by user
- * @buffer: Given command
- * Return: No. of arguments
+ * necklace_pearls - counts commands and options entered by user
+ * @buffer: given command
+ * Return: Number of arguments
 */
 int necklace_pearls(char *buffer)
 {
@@ -31,7 +32,7 @@ int necklace_pearls(char *buffer)
 }
 
 /**
- * parser - Function that splits a given string
+ * parsing - Function that splits a given string
  * @buffer: Given string
  * @characters: number of elements
  * Return: Tokenized string
@@ -65,6 +66,6 @@ char **parsing(char *buffer, int characters)
 }
 
 /**
- * Nicholas-Odiwuor
+ * Nicholas
+ * Hassan
  */
-
