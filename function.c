@@ -1,14 +1,16 @@
 /**
- * Nicholas-Odiwuor
+ * Nicholas
+ * Hassan
  */
+
 
 #include <stdio.h>
 
 /**
- * _compare - Compares two strings at a given position
- * @x: String to be compared
- * @y: String to compare
- * Return: Returns nothing
+ * _compare - compares two strings at a given position
+ * @x: string to be compared
+ * @y: string to compare
+ * Return: Nohing
 */
 int _compare(char *x, char *y)
 {
@@ -25,10 +27,10 @@ int _compare(char *x, char *y)
 }
 
 /**
- * _strstr - Compares two strings at a given position
- * @x: String to be compared
- * @y: String to compare
- * Return: The pointer to the first occurence
+ * _strstr - compares two strings at a given position
+ * @x: string to be compared
+ * @y: string to compare
+ * Return: pointer to the first occurence
 */
 char *_strstr(char *x, char *y)
 {
@@ -44,7 +46,7 @@ char *_strstr(char *x, char *y)
 
 
 /**
- * _strcpy - Function to copy the string pointed to by src
+ * _strcpy - unction that copies the string pointed to by src
  *@dest: char
  *@src:_ char
  * Return: dest
@@ -65,5 +67,6 @@ char *_strcpy(char *dest, char *src)
 }
 
 /**
- * Nicholas-Odiwuor
+ * Nicholas
+ * Hassan
  */
